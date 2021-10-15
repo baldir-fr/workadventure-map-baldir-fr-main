@@ -18,6 +18,17 @@ In https://workadventu.re/admin
 - Url of the custom map : `https://raw.githubusercontent.com/baldir-fr/workadventure-map-baldir-fr-main/master/map.json`
 - Click `Select your custom map`
 
+## Zones
+
+- Chill zone
+    - Opt-in to join
+- Meeting zone (usually big table with chairs)
+    - Automatic join
+- Silent zone
+- Url Zone
+- Audio Zone
+- Page embed
+
 ## Installation
 
 With npm installed (comes with [node](https://nodejs.org/en/)), run the following commands into a terminal in the root directory of this project:
@@ -42,3 +53,13 @@ This project contains multiple licenses:
 If you add third party assets in your map, do not forget to:
 1. Credit the author and license with the "tilesetCopyright" property present in the properties of each tilesets in the `map.json` file
 2. Add the license text in LICENSE.assets
+
+
+## Inspiration
+
+- https://play.staging.workadventu.re/@/tcm/workadventure/wa-village
+    - Chatbot
+    - Games 
+        - Gartic phone URL
+        - Skirbbl.io
+- tilests : itch.io
