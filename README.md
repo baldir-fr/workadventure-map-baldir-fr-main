@@ -6,6 +6,18 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
 
 ![map](./map.png)
 
+## Use this map online
+
+In https://workadventu.re/admin
+
+- My Worlds
+- Create a new world
+- Give the world a name you like and click `Create`
+- Create a new room
+- Click on `Custom` tab
+- Url of the custom map : `https://raw.githubusercontent.com/baldir-fr/workadventure-map-baldir-fr-main/master/map.json`
+- Click `Select your custom map`
+
 ## Installation
 
 With npm installed (comes with [node](https://nodejs.org/en/)), run the following commands into a terminal in the root directory of this project:
